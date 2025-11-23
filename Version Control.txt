@@ -1,6 +1,7 @@
 Version control is a system that helps track changes to files over time. 
 It allows me to see the history of my project, undo changes if needed, 
 and work on different features safely. Git makes collaboration easier.
-I learned that Git helps me track every change I make to my project. 
-It lets me see the history and go back if something breaks. 
-This is very useful for coding projects.
+I understand that version control helps me keep track of all changes 
+to my project. With Git, I can see who changed what and when. 
+This assignment taught me how important Git is for any software project.
+In Short this assignment proved to be the gateway to better connectivity and code sustaianability via Git and Github.
